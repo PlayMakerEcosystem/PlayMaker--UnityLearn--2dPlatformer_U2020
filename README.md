@@ -9,8 +9,8 @@ This project is a work in progress:
 
 you need the following setup:
 
- - Unity 2019.2.0 at least
- - PlayMaker 1.9.0
+ - Unity 2020.2.1 at least
+ - PlayMaker 1.9.1 at least
  
  Improvements over the original version:
  
