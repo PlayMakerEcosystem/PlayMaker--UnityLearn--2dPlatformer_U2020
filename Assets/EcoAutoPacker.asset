@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ec061b5ce3f6849bc6ee6497489ccb, type: 3}
+  m_Name: EcoAutoPacker
+  m_EditorClassIdentifier: 
+  includeFolders:
+  - 95249250bb7194e40ad68a12d1004cc4
+  - b76a01387255d4d7f8b1e668c898bad9
+  - 8f58f75815ea8455d89220f6ddc3d7a5
+  - 8774c230da39f2f41a5ca6ca2eb30aaf
+  - 7ca87d5d104084c41a5ad304760dde99
+  - 5356db4adfe104a36989c338a12ac63d
+  - 1ce117be3d09a4132a34230a65e09656
+  - 5cf1b8de086ff4252bd1c7c7b06bb8b7
+  - 44d67a8eb099c43d1b6da85a88b80adc
+  - c6547ca65772d4edbbf69739a4f91680
+  - 87bcf5fad4ab6479985cc5db28130ead
+  - 6a26af679727446e2955d8c67141835d
+  - 2079d3a13fe744509b4a46b65941e529
+  - 35bf60da24da247efab9c9aec0d0c5b0
+  - 3e396eb0e36a142c0a67807a010afc01
+  - 5bc32138cbea5f945b235ac23ec6767b
+  excludeFolders: []
+  includeFiles:
+  - c3ebf5ba1da30423caadc577da64cf9f
+  excludeFiles: []
+  youTubeLists: []
+  webLinkList: []
+  modulesList: []
+  ecoFilterList: []
+  foldersToInclude: []
+  filesToInclude: []
+  foldersToExclude: []
+  filesToExclude: []
+  author: Jean Fabre
+  type: 
+  version: 
+  keyWords: 
+  packageName: PlayMaker2dPlatformer
+  targetDirectory: /Users/jeanfabre/Documents/Work/Unity/PlayMaker/Ecosystem/Repositories/UnityLearn
+    Projects/PlayMaker--UnityLearn--2dPlatformer_U2019/Builds
+  targetCustomDirectory: 
+  targetSubDirectory: Builds
+  targetRepository: 4
+  categoryString: Samples
+  targetPackageTextFile: /Users/jeanfabre/Documents/Work/Unity/PlayMaker/Ecosystem/Repositories/UnityLearn
+    Projects/PlayMaker--UnityLearn--2dPlatformer_U2019/Builds/PlayMaker2dPlatformer.sample.txt
+  packagetypeselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  packagetypeselected: 1
+  UminVselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  UminVselected: 0
+  PMminVselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  PMminVselected: 0
+  Pingtype:
+  - None
+  - Asset Path
+  - Menu
+  Pingtypeselected: 0
+  uMinVersionSelected: 0
+  pmMinVersionSelected: 0
+  categoryList:
+  - API
+  - Analytics
+  - AnimateVariables
+  - Animation
+  - Android
+  - Animator
+  - Application
+  - Array
+  - AssetBundle
+  - Audio
+  - AudioMixer
+  - BlendShapes
+  - Camera
+  - Color
+  - Convert
+  - CrossPlatformInput
+  - Debug
+  - Device
+  - Editor
+  - Effects
+  - Encryption
+  - Files
+  - FOV
+  - GarbageCollection
+  - GameObject
+  - GUI
+  - GuiElement
+  - GUILayout
+  - Input
+  - JSON
+  - Level
+  - Lights
+  - Logic
+  - Material
+  - Math
+  - Mesh
+  - Microphone
+  - MobileGameController
+  - Movement
+  - NavMeshAgent
+  - NoiseModule
+  - Particles
+  - Physics
+  - Physics2D
+  - PlayerPrefs
+  - QualitySettings
+  - Quaternion
+  - Rect
+  - RectTransform
+  - RenderSettings
+  - Renderer
+  - Resources
+  - Screen
+  - ScriptControl
+  - ShapeModule
+  - Social
+  - Sprite
+  - StateMachine
+  - String
+  - Texture
+  - Time
+  - Transform
+  - Trigonometry
+  - UnityAds
+  - UnityObject
+  - Vector2
+  - Vector3
+  - VideoClip
+  - VideoPlayer
+  - VR
+  - Web
+  - WebCam
+  - uGui
+  categorySelected: 0
+  assetPath: {fileID: 0}
+  pingMenu: {fileID: 0}
+  fileExistsCheck: 0
+  expandedList: 0
+  showList: 1
+  showSetFoldersAndFiles: 1
+  foldout: 1
+  customTarget: 0
+  showProjectSettings: 1
+  targetSelection: 0
+  includeAudioManager: 0
+  includeClusterInputManager: 0
+  includeDynamicsManager: 0
+  includeEditorBuildSettings: 0
+  includeEditorSettings: 0
+  includeGraphicsSettings: 0
+  includeInputManager: 0
+  includeNavMeshAreas: 0
+  includePhysics2DSettings: 1
+  includePresetManager: 0
+  includeProjectSettings: 0
+  includeQualitySettings: 0
+  includeTagManager: 1
+  includeTimeManager: 0
+  includeUnityConnectSettings: 0
+  includeVFXManager: 0

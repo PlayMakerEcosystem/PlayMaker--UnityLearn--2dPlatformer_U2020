@@ -1,0 +1,8 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"UnityMinimumVersion":"4.7",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Samples/PlayMaker2dPlatformer.unitypackage",
+"keywords":""
+}
