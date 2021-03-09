@@ -27,6 +27,14 @@ you need the following setup:
   This PlayMaker version uses the new Unity UI system, so this is an added value to this project as you can see how to integrate the new UI system in a proper project.
     -- Health Bar is following the Player, so this demonstrate important interaction between the 3d world and the UI Canvas.
 
+## Installation instructions
+
+Make sure you 'Clone' ( as opposed to download the zip) this project using Github Desktop or SourceTree Application, they will ensure that you get everything.
+
+This project is using a 'submodule' called PlayMaker utils, and so it requires extra step to check out the sub module. If you want to download the zip, that's fine, but make sure you also go get the PlayMaker utils (https://github.com/jeanfabre/PlayMaker--Utils) zip as well and put it in Assets/PlayMaker Utils.
+
+
+
 ## BenchMark
 coming soon, see Unity 5 version for last benchmarks.
 
