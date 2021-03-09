@@ -29,7 +29,7 @@ you need the following setup:
 
 ## Installation instructions
 
-Make sure you 'Clone' ( as opposed to download the zip) this project using Github Desktop or SourceTree Application, they will ensure that you get everything.
+Make sure you 'Clone' this project (as opposed to download the zip) using Github Desktop or SourceTree Application, they will ensure that you get everything.
 
 This project is using a 'submodule' called PlayMaker utils, and so it requires extra step to check out the sub module. If you want to download the zip, that's fine, but make sure you also go get the PlayMaker utils (https://github.com/jeanfabre/PlayMaker--Utils) zip as well and put it in Assets/PlayMaker Utils.
 
